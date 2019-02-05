@@ -21,4 +21,4 @@ b) Grid Computing - A computing grid provides a platform in which computing reso
 
 Now we are moving towrads the main topic what is cloud?
 
-A cloud refers to distinct IT environment that is designed for the purpose of remotely provisioning sacalable and measured IT resources.
+A cloud refers to distinct IT environment that is designed for the purpose of remotely provisioning sacalable and measured IT resources , a cloud has a finite boundary.
